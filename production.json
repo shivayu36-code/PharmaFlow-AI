@@ -1,0 +1,3502 @@
+[
+  {
+    "time": "2026-09-13 18:47:04",
+    "event": "PRODUCTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:47:05",
+    "event": "INSPECTION",
+    "bottle_id": 1012,
+    "message": "Bottle 1012: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:47:06",
+    "event": "PRODUCTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:47:07",
+    "event": "INSPECTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013: OVERFILL - 103 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 18:47:08",
+    "event": "PRODUCTION",
+    "bottle_id": 1015,
+    "message": "Bottle 1015 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:47:09",
+    "event": "INSPECTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014: DEFECT - 99/100 pills (1 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 18:47:09",
+    "event": "PRODUCTION",
+    "bottle_id": 1016,
+    "message": "Bottle 1016 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:47:10",
+    "event": "RECOVERY",
+    "bottle_id": 1014,
+    "message": "Bottle 1014: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:47:11",
+    "event": "INSPECTION",
+    "bottle_id": 1015,
+    "message": "Bottle 1015: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:47:11",
+    "event": "PRODUCTION",
+    "bottle_id": 1017,
+    "message": "Bottle 1017 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:47:13",
+    "event": "INSPECTION",
+    "bottle_id": 1016,
+    "message": "Bottle 1016: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 18:47:13",
+    "event": "PRODUCTION",
+    "bottle_id": 1018,
+    "message": "Bottle 1018 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:47:14",
+    "event": "RECOVERY",
+    "bottle_id": 1016,
+    "message": "Bottle 1016: LABEL RECOVERY SUCCESS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:47:14",
+    "event": "INSPECTION",
+    "bottle_id": 1017,
+    "message": "Bottle 1017: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:47:15",
+    "event": "PRODUCTION",
+    "bottle_id": 1019,
+    "message": "Bottle 1019 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:47:16",
+    "event": "INSPECTION",
+    "bottle_id": 1018,
+    "message": "Bottle 1018: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:47:17",
+    "event": "PRODUCTION",
+    "bottle_id": 1020,
+    "message": "Bottle 1020 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:47:18",
+    "event": "INSPECTION",
+    "bottle_id": 1019,
+    "message": "Bottle 1019: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 18:47:18",
+    "event": "PRODUCTION",
+    "bottle_id": 1021,
+    "message": "Bottle 1021 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:52:38",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:52:40",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:52:42",
+    "event": "INSPECTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:52:42",
+    "event": "PRODUCTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:52:43",
+    "event": "INSPECTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 18:52:44",
+    "event": "PRODUCTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:52:45",
+    "event": "RECOVERY",
+    "bottle_id": 1002,
+    "message": "Bottle 1002: LABEL RECOVERY SUCCESS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:52:45",
+    "event": "INSPECTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:52:46",
+    "event": "PRODUCTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:52:47",
+    "event": "INSPECTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:52:47",
+    "event": "PRODUCTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:52:49",
+    "event": "INSPECTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005: OVERFILL - 102 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 18:52:49",
+    "event": "PRODUCTION",
+    "bottle_id": 1007,
+    "message": "Bottle 1007 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:52:51",
+    "event": "INSPECTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:52:51",
+    "event": "PRODUCTION",
+    "bottle_id": 1008,
+    "message": "Bottle 1008 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:52:52",
+    "event": "INSPECTION",
+    "bottle_id": 1007,
+    "message": "Bottle 1007: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:52:53",
+    "event": "PRODUCTION",
+    "bottle_id": 1009,
+    "message": "Bottle 1009 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:52:54",
+    "event": "INSPECTION",
+    "bottle_id": 1008,
+    "message": "Bottle 1008: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:52:55",
+    "event": "PRODUCTION",
+    "bottle_id": 1010,
+    "message": "Bottle 1010 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:52:56",
+    "event": "INSPECTION",
+    "bottle_id": 1009,
+    "message": "Bottle 1009: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:52:56",
+    "event": "PRODUCTION",
+    "bottle_id": 1011,
+    "message": "Bottle 1011 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:52:58",
+    "event": "INSPECTION",
+    "bottle_id": 1010,
+    "message": "Bottle 1010: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:52:58",
+    "event": "PRODUCTION",
+    "bottle_id": 1012,
+    "message": "Bottle 1012 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:53:00",
+    "event": "INSPECTION",
+    "bottle_id": 1011,
+    "message": "Bottle 1011: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:53:00",
+    "event": "PRODUCTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:53:02",
+    "event": "INSPECTION",
+    "bottle_id": 1012,
+    "message": "Bottle 1012: DEFECT - 97/100 pills (3 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 18:53:02",
+    "event": "PRODUCTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:53:03",
+    "event": "RECOVERY",
+    "bottle_id": 1012,
+    "message": "Bottle 1012: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:53:03",
+    "event": "INSPECTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 18:53:04",
+    "event": "PRODUCTION",
+    "bottle_id": 1015,
+    "message": "Bottle 1015 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 18:53:05",
+    "event": "INSPECTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 19:09:50",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:09:51",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:11:18",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:11:20",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:14:18",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:14:20",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:15:18",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:15:20",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:24:21",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:24:23",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:24:36",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:24:37",
+    "event": "ALARM",
+    "bottle_id": 0,
+    "message": "ALARM: Filling machine malfunction detected!",
+    "decision": "CRITICAL"
+  },
+  {
+    "time": "2026-09-13 19:24:38",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:24:40",
+    "event": "PRODUCTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:24:40",
+    "event": "RECOVERY",
+    "bottle_id": 0,
+    "message": "Filling machine tested and recovered. Alarm GREEN.",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:25:55",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:25:57",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:25:59",
+    "event": "INSPECTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:25:59",
+    "event": "PRODUCTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:26:01",
+    "event": "INSPECTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:26:01",
+    "event": "PRODUCTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:26:02",
+    "event": "INSPECTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:26:03",
+    "event": "PRODUCTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:26:04",
+    "event": "INSPECTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004: DEFECT - 98/100 pills (2 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 19:26:04",
+    "event": "PRODUCTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:26:06",
+    "event": "INSPECTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005: OVERFILL - 101 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 19:26:06",
+    "event": "PRODUCTION",
+    "bottle_id": 1007,
+    "message": "Bottle 1007 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:26:08",
+    "event": "INSPECTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006: DEFECT - 97/100 pills (3 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 19:27:00",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:02",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:03",
+    "event": "INSPECTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001: OVERFILL - 101 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 19:27:04",
+    "event": "PRODUCTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:05",
+    "event": "INSPECTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:05",
+    "event": "PRODUCTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:07",
+    "event": "INSPECTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:07",
+    "event": "PRODUCTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:09",
+    "event": "INSPECTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:09",
+    "event": "PRODUCTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:11",
+    "event": "INSPECTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:11",
+    "event": "PRODUCTION",
+    "bottle_id": 1007,
+    "message": "Bottle 1007 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:12",
+    "event": "INSPECTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:13",
+    "event": "PRODUCTION",
+    "bottle_id": 1008,
+    "message": "Bottle 1008 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:14",
+    "event": "INSPECTION",
+    "bottle_id": 1007,
+    "message": "Bottle 1007: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:15",
+    "event": "PRODUCTION",
+    "bottle_id": 1009,
+    "message": "Bottle 1009 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:16",
+    "event": "INSPECTION",
+    "bottle_id": 1008,
+    "message": "Bottle 1008: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:16",
+    "event": "PRODUCTION",
+    "bottle_id": 1010,
+    "message": "Bottle 1010 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:18",
+    "event": "INSPECTION",
+    "bottle_id": 1009,
+    "message": "Bottle 1009: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:18",
+    "event": "PRODUCTION",
+    "bottle_id": 1011,
+    "message": "Bottle 1011 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:20",
+    "event": "INSPECTION",
+    "bottle_id": 1010,
+    "message": "Bottle 1010: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 19:27:20",
+    "event": "PRODUCTION",
+    "bottle_id": 1012,
+    "message": "Bottle 1012 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:21",
+    "event": "INSPECTION",
+    "bottle_id": 1011,
+    "message": "Bottle 1011: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:22",
+    "event": "PRODUCTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:23",
+    "event": "INSPECTION",
+    "bottle_id": 1012,
+    "message": "Bottle 1012: OVERFILL - 103 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 19:27:24",
+    "event": "PRODUCTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:25",
+    "event": "INSPECTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:25",
+    "event": "PRODUCTION",
+    "bottle_id": 1015,
+    "message": "Bottle 1015 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:27",
+    "event": "INSPECTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014: DEFECT - 97/100 pills (3 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 19:27:27",
+    "event": "PRODUCTION",
+    "bottle_id": 1016,
+    "message": "Bottle 1016 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:29",
+    "event": "INSPECTION",
+    "bottle_id": 1015,
+    "message": "Bottle 1015: DEFECT - 95/100 pills (5 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 19:27:29",
+    "event": "PRODUCTION",
+    "bottle_id": 1017,
+    "message": "Bottle 1017 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:31",
+    "event": "INSPECTION",
+    "bottle_id": 1016,
+    "message": "Bottle 1016: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:31",
+    "event": "PRODUCTION",
+    "bottle_id": 1018,
+    "message": "Bottle 1018 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:32",
+    "event": "INSPECTION",
+    "bottle_id": 1017,
+    "message": "Bottle 1017: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:33",
+    "event": "PRODUCTION",
+    "bottle_id": 1019,
+    "message": "Bottle 1019 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:34",
+    "event": "INSPECTION",
+    "bottle_id": 1018,
+    "message": "Bottle 1018: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:35",
+    "event": "PRODUCTION",
+    "bottle_id": 1020,
+    "message": "Bottle 1020 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:36",
+    "event": "INSPECTION",
+    "bottle_id": 1019,
+    "message": "Bottle 1019: OVERFILL - 104 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 19:27:36",
+    "event": "PRODUCTION",
+    "bottle_id": 1021,
+    "message": "Bottle 1021 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:38",
+    "event": "INSPECTION",
+    "bottle_id": 1020,
+    "message": "Bottle 1020: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:38",
+    "event": "PRODUCTION",
+    "bottle_id": 1022,
+    "message": "Bottle 1022 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:40",
+    "event": "INSPECTION",
+    "bottle_id": 1021,
+    "message": "Bottle 1021: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:40",
+    "event": "PRODUCTION",
+    "bottle_id": 1023,
+    "message": "Bottle 1023 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:41",
+    "event": "ALARM",
+    "bottle_id": 0,
+    "message": "ALARM: Filling machine malfunction detected!",
+    "decision": "CRITICAL"
+  },
+  {
+    "time": "2026-09-13 19:27:42",
+    "event": "PRODUCTION",
+    "bottle_id": 1024,
+    "message": "Bottle 1024 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:44",
+    "event": "PRODUCTION",
+    "bottle_id": 1025,
+    "message": "Bottle 1025 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:44",
+    "event": "RECOVERY",
+    "bottle_id": 0,
+    "message": "Filling machine tested and recovered. Alarm GREEN.",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:44",
+    "event": "INSPECTION",
+    "bottle_id": 1022,
+    "message": "Bottle 1022: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:44",
+    "event": "INSPECTION",
+    "bottle_id": 1023,
+    "message": "Bottle 1023: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:45",
+    "event": "INSPECTION",
+    "bottle_id": 1024,
+    "message": "Bottle 1024: DEFECT - 98/100 pills (2 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 19:27:45",
+    "event": "PRODUCTION",
+    "bottle_id": 1026,
+    "message": "Bottle 1026 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:47",
+    "event": "INSPECTION",
+    "bottle_id": 1025,
+    "message": "Bottle 1025: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 19:27:47",
+    "event": "PRODUCTION",
+    "bottle_id": 1027,
+    "message": "Bottle 1027 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:49",
+    "event": "INSPECTION",
+    "bottle_id": 1026,
+    "message": "Bottle 1026: DEFECT - 96/100 pills (4 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 19:27:49",
+    "event": "PRODUCTION",
+    "bottle_id": 1028,
+    "message": "Bottle 1028 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:50",
+    "event": "ALARM",
+    "bottle_id": 0,
+    "message": "ALARM: Filling machine malfunction detected!",
+    "decision": "CRITICAL"
+  },
+  {
+    "time": "2026-09-13 19:27:51",
+    "event": "PRODUCTION",
+    "bottle_id": 1029,
+    "message": "Bottle 1029 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:53",
+    "event": "PRODUCTION",
+    "bottle_id": 1030,
+    "message": "Bottle 1030 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:53",
+    "event": "RECOVERY",
+    "bottle_id": 0,
+    "message": "Filling machine tested and recovered. Alarm GREEN.",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:53",
+    "event": "ALARM",
+    "bottle_id": 0,
+    "message": "ALARM: Filling machine malfunction detected!",
+    "decision": "CRITICAL"
+  },
+  {
+    "time": "2026-09-13 19:27:55",
+    "event": "PRODUCTION",
+    "bottle_id": 1031,
+    "message": "Bottle 1031 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:56",
+    "event": "RECOVERY",
+    "bottle_id": 0,
+    "message": "Filling machine tested and recovered. Alarm GREEN.",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:56",
+    "event": "PRODUCTION",
+    "bottle_id": 1032,
+    "message": "Bottle 1032 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:27:56",
+    "event": "INSPECTION",
+    "bottle_id": 1027,
+    "message": "Bottle 1027: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:56",
+    "event": "INSPECTION",
+    "bottle_id": 1028,
+    "message": "Bottle 1028: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:57",
+    "event": "INSPECTION",
+    "bottle_id": 1029,
+    "message": "Bottle 1029: OVERFILL - 104 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 19:27:57",
+    "event": "INSPECTION",
+    "bottle_id": 1030,
+    "message": "Bottle 1030: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:27:57",
+    "event": "ALARM",
+    "bottle_id": 0,
+    "message": "ALARM: Filling machine malfunction detected!",
+    "decision": "CRITICAL"
+  },
+  {
+    "time": "2026-09-13 19:27:58",
+    "event": "PRODUCTION",
+    "bottle_id": 1033,
+    "message": "Bottle 1033 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:28:00",
+    "event": "RECOVERY",
+    "bottle_id": 0,
+    "message": "Filling machine tested and recovered. Alarm GREEN.",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:28:00",
+    "event": "PRODUCTION",
+    "bottle_id": 1034,
+    "message": "Bottle 1034 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:28:01",
+    "event": "INSPECTION",
+    "bottle_id": 1031,
+    "message": "Bottle 1031: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:28:01",
+    "event": "INSPECTION",
+    "bottle_id": 1032,
+    "message": "Bottle 1032: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:28:02",
+    "event": "INSPECTION",
+    "bottle_id": 1033,
+    "message": "Bottle 1033: DEFECT - 99/100 pills (1 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 19:28:02",
+    "event": "PRODUCTION",
+    "bottle_id": 1035,
+    "message": "Bottle 1035 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:28:03",
+    "event": "INSPECTION",
+    "bottle_id": 1034,
+    "message": "Bottle 1034: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:28:04",
+    "event": "PRODUCTION",
+    "bottle_id": 1036,
+    "message": "Bottle 1036 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:28:05",
+    "event": "INSPECTION",
+    "bottle_id": 1035,
+    "message": "Bottle 1035: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:28:05",
+    "event": "PRODUCTION",
+    "bottle_id": 1037,
+    "message": "Bottle 1037 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:15",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:17",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:18",
+    "event": "INSPECTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:19",
+    "event": "PRODUCTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:20",
+    "event": "INSPECTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:21",
+    "event": "PRODUCTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:22",
+    "event": "INSPECTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 19:30:22",
+    "event": "PRODUCTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:23",
+    "event": "RECOVERY",
+    "bottle_id": 1003,
+    "message": "Bottle 1003: LABEL RECOVERY SUCCESS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:24",
+    "event": "INSPECTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:24",
+    "event": "PRODUCTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:26",
+    "event": "INSPECTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:26",
+    "event": "PRODUCTION",
+    "bottle_id": 1007,
+    "message": "Bottle 1007 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:28",
+    "event": "INSPECTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:28",
+    "event": "PRODUCTION",
+    "bottle_id": 1008,
+    "message": "Bottle 1008 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:29",
+    "event": "INSPECTION",
+    "bottle_id": 1007,
+    "message": "Bottle 1007: DEFECT - 95/100 pills (5 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 19:30:30",
+    "event": "PRODUCTION",
+    "bottle_id": 1009,
+    "message": "Bottle 1009 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:31",
+    "event": "RECOVERY",
+    "bottle_id": 1007,
+    "message": "Bottle 1007: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:31",
+    "event": "INSPECTION",
+    "bottle_id": 1008,
+    "message": "Bottle 1008: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:31",
+    "event": "PRODUCTION",
+    "bottle_id": 1010,
+    "message": "Bottle 1010 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:33",
+    "event": "INSPECTION",
+    "bottle_id": 1009,
+    "message": "Bottle 1009: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 19:30:33",
+    "event": "PRODUCTION",
+    "bottle_id": 1011,
+    "message": "Bottle 1011 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:34",
+    "event": "RECOVERY",
+    "bottle_id": 1009,
+    "message": "Bottle 1009: LABEL RECOVERY SUCCESS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:35",
+    "event": "INSPECTION",
+    "bottle_id": 1010,
+    "message": "Bottle 1010: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:35",
+    "event": "PRODUCTION",
+    "bottle_id": 1012,
+    "message": "Bottle 1012 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:37",
+    "event": "INSPECTION",
+    "bottle_id": 1011,
+    "message": "Bottle 1011: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 19:30:37",
+    "event": "PRODUCTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:38",
+    "event": "RECOVERY",
+    "bottle_id": 1011,
+    "message": "Bottle 1011: LABEL RECOVERY SUCCESS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:38",
+    "event": "INSPECTION",
+    "bottle_id": 1012,
+    "message": "Bottle 1012: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:39",
+    "event": "PRODUCTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:40",
+    "event": "INSPECTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:41",
+    "event": "PRODUCTION",
+    "bottle_id": 1015,
+    "message": "Bottle 1015 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:42",
+    "event": "INSPECTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:42",
+    "event": "PRODUCTION",
+    "bottle_id": 1016,
+    "message": "Bottle 1016 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:44",
+    "event": "INSPECTION",
+    "bottle_id": 1015,
+    "message": "Bottle 1015: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:44",
+    "event": "PRODUCTION",
+    "bottle_id": 1017,
+    "message": "Bottle 1017 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:45",
+    "event": "ALARM",
+    "bottle_id": 0,
+    "message": "ALARM: Filling machine malfunction detected!",
+    "decision": "CRITICAL"
+  },
+  {
+    "time": "2026-09-13 19:30:46",
+    "event": "PRODUCTION",
+    "bottle_id": 1018,
+    "message": "Bottle 1018 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:48",
+    "event": "PRODUCTION",
+    "bottle_id": 1019,
+    "message": "Bottle 1019 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:48",
+    "event": "RECOVERY",
+    "bottle_id": 0,
+    "message": "Filling machine tested and recovered. Alarm GREEN.",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:49",
+    "event": "INSPECTION",
+    "bottle_id": 1016,
+    "message": "Bottle 1016: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 19:30:49",
+    "event": "INSPECTION",
+    "bottle_id": 1017,
+    "message": "Bottle 1017: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:49",
+    "event": "INSPECTION",
+    "bottle_id": 1018,
+    "message": "Bottle 1018: OVERFILL - 102 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 19:30:50",
+    "event": "PRODUCTION",
+    "bottle_id": 1020,
+    "message": "Bottle 1020 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:50",
+    "event": "RECOVERY",
+    "bottle_id": 1016,
+    "message": "Bottle 1016: LABEL RECOVERY SUCCESS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:51",
+    "event": "INSPECTION",
+    "bottle_id": 1019,
+    "message": "Bottle 1019: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:51",
+    "event": "PRODUCTION",
+    "bottle_id": 1021,
+    "message": "Bottle 1021 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:53",
+    "event": "INSPECTION",
+    "bottle_id": 1020,
+    "message": "Bottle 1020: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:53",
+    "event": "PRODUCTION",
+    "bottle_id": 1022,
+    "message": "Bottle 1022 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:55",
+    "event": "INSPECTION",
+    "bottle_id": 1021,
+    "message": "Bottle 1021: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 19:30:55",
+    "event": "PRODUCTION",
+    "bottle_id": 1023,
+    "message": "Bottle 1023 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:56",
+    "event": "RECOVERY",
+    "bottle_id": 1021,
+    "message": "Bottle 1021: LABEL RECOVERY SUCCESS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:57",
+    "event": "INSPECTION",
+    "bottle_id": 1022,
+    "message": "Bottle 1022: OVERFILL - 104 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 19:30:57",
+    "event": "PRODUCTION",
+    "bottle_id": 1024,
+    "message": "Bottle 1024 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:30:58",
+    "event": "INSPECTION",
+    "bottle_id": 1023,
+    "message": "Bottle 1023: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:30:59",
+    "event": "PRODUCTION",
+    "bottle_id": 1025,
+    "message": "Bottle 1025 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:31:00",
+    "event": "INSPECTION",
+    "bottle_id": 1024,
+    "message": "Bottle 1024: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:31:01",
+    "event": "PRODUCTION",
+    "bottle_id": 1026,
+    "message": "Bottle 1026 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:31:02",
+    "event": "INSPECTION",
+    "bottle_id": 1025,
+    "message": "Bottle 1025: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:31:02",
+    "event": "PRODUCTION",
+    "bottle_id": 1027,
+    "message": "Bottle 1027 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:31:04",
+    "event": "INSPECTION",
+    "bottle_id": 1026,
+    "message": "Bottle 1026: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:31:04",
+    "event": "PRODUCTION",
+    "bottle_id": 1028,
+    "message": "Bottle 1028 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:31:06",
+    "event": "INSPECTION",
+    "bottle_id": 1027,
+    "message": "Bottle 1027: DEFECT - 98/100 pills (2 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 19:31:06",
+    "event": "PRODUCTION",
+    "bottle_id": 1029,
+    "message": "Bottle 1029 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:31:07",
+    "event": "RECOVERY",
+    "bottle_id": 1027,
+    "message": "Bottle 1027: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:31:08",
+    "event": "INSPECTION",
+    "bottle_id": 1028,
+    "message": "Bottle 1028: DEFECT - 95/100 pills (5 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 19:31:08",
+    "event": "PRODUCTION",
+    "bottle_id": 1030,
+    "message": "Bottle 1030 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:31:09",
+    "event": "RECOVERY",
+    "bottle_id": 1028,
+    "message": "Bottle 1028: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:31:09",
+    "event": "INSPECTION",
+    "bottle_id": 1029,
+    "message": "Bottle 1029: DEFECT - 95/100 pills (5 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 19:31:10",
+    "event": "PRODUCTION",
+    "bottle_id": 1031,
+    "message": "Bottle 1031 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:31:11",
+    "event": "RECOVERY",
+    "bottle_id": 1029,
+    "message": "Bottle 1029: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:31:11",
+    "event": "INSPECTION",
+    "bottle_id": 1030,
+    "message": "Bottle 1030: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:31:11",
+    "event": "PRODUCTION",
+    "bottle_id": 1032,
+    "message": "Bottle 1032 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:31:13",
+    "event": "INSPECTION",
+    "bottle_id": 1031,
+    "message": "Bottle 1031: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:31:13",
+    "event": "PRODUCTION",
+    "bottle_id": 1033,
+    "message": "Bottle 1033 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:40:08",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:40:10",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 19:40:12",
+    "event": "INSPECTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 19:40:12",
+    "event": "PRODUCTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:05:44",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:05:45",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:05:47",
+    "event": "INSPECTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:05:47",
+    "event": "PRODUCTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:05:49",
+    "event": "INSPECTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:05:49",
+    "event": "PRODUCTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:05:50",
+    "event": "INSPECTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:05:51",
+    "event": "PRODUCTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:05:52",
+    "event": "INSPECTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:05:53",
+    "event": "PRODUCTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:05:54",
+    "event": "INSPECTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:05:54",
+    "event": "PRODUCTION",
+    "bottle_id": 1007,
+    "message": "Bottle 1007 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:05:56",
+    "event": "INSPECTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:05:56",
+    "event": "PRODUCTION",
+    "bottle_id": 1008,
+    "message": "Bottle 1008 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:05:58",
+    "event": "INSPECTION",
+    "bottle_id": 1007,
+    "message": "Bottle 1007: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:05:58",
+    "event": "PRODUCTION",
+    "bottle_id": 1009,
+    "message": "Bottle 1009 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:00",
+    "event": "INSPECTION",
+    "bottle_id": 1008,
+    "message": "Bottle 1008: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:00",
+    "event": "PRODUCTION",
+    "bottle_id": 1010,
+    "message": "Bottle 1010 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:01",
+    "event": "INSPECTION",
+    "bottle_id": 1009,
+    "message": "Bottle 1009: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:02",
+    "event": "PRODUCTION",
+    "bottle_id": 1011,
+    "message": "Bottle 1011 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:03",
+    "event": "INSPECTION",
+    "bottle_id": 1010,
+    "message": "Bottle 1010: DEFECT - 96/100 pills (4 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:06:04",
+    "event": "PRODUCTION",
+    "bottle_id": 1012,
+    "message": "Bottle 1012 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:05",
+    "event": "INSPECTION",
+    "bottle_id": 1011,
+    "message": "Bottle 1011: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:05",
+    "event": "PRODUCTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:07",
+    "event": "INSPECTION",
+    "bottle_id": 1012,
+    "message": "Bottle 1012: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 20:06:07",
+    "event": "PRODUCTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:09",
+    "event": "INSPECTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013: OVERFILL - 103 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 20:06:09",
+    "event": "PRODUCTION",
+    "bottle_id": 1015,
+    "message": "Bottle 1015 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:10",
+    "event": "INSPECTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:11",
+    "event": "PRODUCTION",
+    "bottle_id": 1016,
+    "message": "Bottle 1016 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:11",
+    "event": "RECOVERY",
+    "bottle_id": 1010,
+    "message": "Bottle 1010: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:12",
+    "event": "INSPECTION",
+    "bottle_id": 1015,
+    "message": "Bottle 1015: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:13",
+    "event": "PRODUCTION",
+    "bottle_id": 1017,
+    "message": "Bottle 1017 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:14",
+    "event": "INSPECTION",
+    "bottle_id": 1016,
+    "message": "Bottle 1016: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:14",
+    "event": "PRODUCTION",
+    "bottle_id": 1018,
+    "message": "Bottle 1018 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:16",
+    "event": "INSPECTION",
+    "bottle_id": 1017,
+    "message": "Bottle 1017: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:16",
+    "event": "PRODUCTION",
+    "bottle_id": 1019,
+    "message": "Bottle 1019 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:18",
+    "event": "INSPECTION",
+    "bottle_id": 1018,
+    "message": "Bottle 1018: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:18",
+    "event": "PRODUCTION",
+    "bottle_id": 1020,
+    "message": "Bottle 1020 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:19",
+    "event": "INSPECTION",
+    "bottle_id": 1019,
+    "message": "Bottle 1019: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:20",
+    "event": "PRODUCTION",
+    "bottle_id": 1021,
+    "message": "Bottle 1021 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:21",
+    "event": "INSPECTION",
+    "bottle_id": 1020,
+    "message": "Bottle 1020: DEFECT - 95/100 pills (5 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:06:22",
+    "event": "PRODUCTION",
+    "bottle_id": 1022,
+    "message": "Bottle 1022 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:23",
+    "event": "INSPECTION",
+    "bottle_id": 1021,
+    "message": "Bottle 1021: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:23",
+    "event": "PRODUCTION",
+    "bottle_id": 1023,
+    "message": "Bottle 1023 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:25",
+    "event": "INSPECTION",
+    "bottle_id": 1022,
+    "message": "Bottle 1022: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:25",
+    "event": "PRODUCTION",
+    "bottle_id": 1024,
+    "message": "Bottle 1024 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:27",
+    "event": "INSPECTION",
+    "bottle_id": 1023,
+    "message": "Bottle 1023: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:27",
+    "event": "PRODUCTION",
+    "bottle_id": 1025,
+    "message": "Bottle 1025 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:29",
+    "event": "INSPECTION",
+    "bottle_id": 1024,
+    "message": "Bottle 1024: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:29",
+    "event": "PRODUCTION",
+    "bottle_id": 1026,
+    "message": "Bottle 1026 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:06:29",
+    "event": "RECOVERY",
+    "bottle_id": 1020,
+    "message": "Bottle 1020: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:30",
+    "event": "INSPECTION",
+    "bottle_id": 1025,
+    "message": "Bottle 1025: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:06:31",
+    "event": "PRODUCTION",
+    "bottle_id": 1027,
+    "message": "Bottle 1027 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:16:41",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:16:43",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:16:44",
+    "event": "INSPECTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:16:45",
+    "event": "PRODUCTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:16:46",
+    "event": "INSPECTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:16:47",
+    "event": "PRODUCTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:16:48",
+    "event": "INSPECTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:16:48",
+    "event": "PRODUCTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:16:50",
+    "event": "INSPECTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:16:50",
+    "event": "PRODUCTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:16:52",
+    "event": "INSPECTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:16:52",
+    "event": "PRODUCTION",
+    "bottle_id": 1007,
+    "message": "Bottle 1007 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:16:54",
+    "event": "INSPECTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:16:54",
+    "event": "PRODUCTION",
+    "bottle_id": 1008,
+    "message": "Bottle 1008 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:16:55",
+    "event": "INSPECTION",
+    "bottle_id": 1007,
+    "message": "Bottle 1007: DEFECT - 98/100 pills (2 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:16:56",
+    "event": "PRODUCTION",
+    "bottle_id": 1009,
+    "message": "Bottle 1009 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:16:57",
+    "event": "INSPECTION",
+    "bottle_id": 1008,
+    "message": "Bottle 1008: DEFECT - 97/100 pills (3 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:16:58",
+    "event": "PRODUCTION",
+    "bottle_id": 1010,
+    "message": "Bottle 1010 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:16:59",
+    "event": "INSPECTION",
+    "bottle_id": 1009,
+    "message": "Bottle 1009: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:16:59",
+    "event": "PRODUCTION",
+    "bottle_id": 1011,
+    "message": "Bottle 1011 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:01",
+    "event": "INSPECTION",
+    "bottle_id": 1010,
+    "message": "Bottle 1010: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:01",
+    "event": "PRODUCTION",
+    "bottle_id": 1012,
+    "message": "Bottle 1012 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:03",
+    "event": "INSPECTION",
+    "bottle_id": 1011,
+    "message": "Bottle 1011: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:03",
+    "event": "PRODUCTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:03",
+    "event": "RECOVERY",
+    "bottle_id": 1007,
+    "message": "Bottle 1007: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:04",
+    "event": "INSPECTION",
+    "bottle_id": 1012,
+    "message": "Bottle 1012: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:05",
+    "event": "PRODUCTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:05",
+    "event": "RECOVERY",
+    "bottle_id": 1008,
+    "message": "Bottle 1008: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:06",
+    "event": "INSPECTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:07",
+    "event": "PRODUCTION",
+    "bottle_id": 1015,
+    "message": "Bottle 1015 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:08",
+    "event": "INSPECTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014: DEFECT - 97/100 pills (3 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:17:08",
+    "event": "PRODUCTION",
+    "bottle_id": 1016,
+    "message": "Bottle 1016 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:10",
+    "event": "INSPECTION",
+    "bottle_id": 1015,
+    "message": "Bottle 1015: DEFECT - 95/100 pills (5 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:17:10",
+    "event": "PRODUCTION",
+    "bottle_id": 1017,
+    "message": "Bottle 1017 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:12",
+    "event": "INSPECTION",
+    "bottle_id": 1016,
+    "message": "Bottle 1016: DEFECT - 99/100 pills (1 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:17:12",
+    "event": "PRODUCTION",
+    "bottle_id": 1018,
+    "message": "Bottle 1018 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:14",
+    "event": "INSPECTION",
+    "bottle_id": 1017,
+    "message": "Bottle 1017: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:14",
+    "event": "PRODUCTION",
+    "bottle_id": 1019,
+    "message": "Bottle 1019 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:15",
+    "event": "INSPECTION",
+    "bottle_id": 1018,
+    "message": "Bottle 1018: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:16",
+    "event": "PRODUCTION",
+    "bottle_id": 1020,
+    "message": "Bottle 1020 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:16",
+    "event": "RECOVERY",
+    "bottle_id": 1014,
+    "message": "Bottle 1014: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:17",
+    "event": "INSPECTION",
+    "bottle_id": 1019,
+    "message": "Bottle 1019: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:18",
+    "event": "PRODUCTION",
+    "bottle_id": 1021,
+    "message": "Bottle 1021 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:18",
+    "event": "RECOVERY",
+    "bottle_id": 1015,
+    "message": "Bottle 1015: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:19",
+    "event": "INSPECTION",
+    "bottle_id": 1020,
+    "message": "Bottle 1020: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:19",
+    "event": "PRODUCTION",
+    "bottle_id": 1022,
+    "message": "Bottle 1022 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:21",
+    "event": "INSPECTION",
+    "bottle_id": 1021,
+    "message": "Bottle 1021: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:21",
+    "event": "PRODUCTION",
+    "bottle_id": 1023,
+    "message": "Bottle 1023 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:23",
+    "event": "INSPECTION",
+    "bottle_id": 1022,
+    "message": "Bottle 1022: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:23",
+    "event": "PRODUCTION",
+    "bottle_id": 1024,
+    "message": "Bottle 1024 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:25",
+    "event": "INSPECTION",
+    "bottle_id": 1023,
+    "message": "Bottle 1023: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:25",
+    "event": "PRODUCTION",
+    "bottle_id": 1025,
+    "message": "Bottle 1025 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:26",
+    "event": "INSPECTION",
+    "bottle_id": 1024,
+    "message": "Bottle 1024: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:27",
+    "event": "PRODUCTION",
+    "bottle_id": 1026,
+    "message": "Bottle 1026 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:28",
+    "event": "INSPECTION",
+    "bottle_id": 1025,
+    "message": "Bottle 1025: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:28",
+    "event": "PRODUCTION",
+    "bottle_id": 1027,
+    "message": "Bottle 1027 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:30",
+    "event": "INSPECTION",
+    "bottle_id": 1026,
+    "message": "Bottle 1026: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:30",
+    "event": "PRODUCTION",
+    "bottle_id": 1028,
+    "message": "Bottle 1028 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:32",
+    "event": "INSPECTION",
+    "bottle_id": 1027,
+    "message": "Bottle 1027: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:32",
+    "event": "PRODUCTION",
+    "bottle_id": 1029,
+    "message": "Bottle 1029 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:34",
+    "event": "INSPECTION",
+    "bottle_id": 1028,
+    "message": "Bottle 1028: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:34",
+    "event": "PRODUCTION",
+    "bottle_id": 1030,
+    "message": "Bottle 1030 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:35",
+    "event": "INSPECTION",
+    "bottle_id": 1029,
+    "message": "Bottle 1029: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:36",
+    "event": "PRODUCTION",
+    "bottle_id": 1031,
+    "message": "Bottle 1031 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:37",
+    "event": "INSPECTION",
+    "bottle_id": 1030,
+    "message": "Bottle 1030: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:38",
+    "event": "PRODUCTION",
+    "bottle_id": 1032,
+    "message": "Bottle 1032 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:39",
+    "event": "INSPECTION",
+    "bottle_id": 1031,
+    "message": "Bottle 1031: DEFECT - 99/100 pills (1 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:17:39",
+    "event": "PRODUCTION",
+    "bottle_id": 1033,
+    "message": "Bottle 1033 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:41",
+    "event": "INSPECTION",
+    "bottle_id": 1032,
+    "message": "Bottle 1032: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:41",
+    "event": "PRODUCTION",
+    "bottle_id": 1034,
+    "message": "Bottle 1034 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:43",
+    "event": "INSPECTION",
+    "bottle_id": 1033,
+    "message": "Bottle 1033: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:43",
+    "event": "PRODUCTION",
+    "bottle_id": 1035,
+    "message": "Bottle 1035 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:45",
+    "event": "INSPECTION",
+    "bottle_id": 1034,
+    "message": "Bottle 1034: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:45",
+    "event": "PRODUCTION",
+    "bottle_id": 1036,
+    "message": "Bottle 1036 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:46",
+    "event": "INSPECTION",
+    "bottle_id": 1035,
+    "message": "Bottle 1035: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:47",
+    "event": "PRODUCTION",
+    "bottle_id": 1037,
+    "message": "Bottle 1037 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:47",
+    "event": "RECOVERY",
+    "bottle_id": 1031,
+    "message": "Bottle 1031: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:48",
+    "event": "INSPECTION",
+    "bottle_id": 1036,
+    "message": "Bottle 1036: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:49",
+    "event": "PRODUCTION",
+    "bottle_id": 1038,
+    "message": "Bottle 1038 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:50",
+    "event": "INSPECTION",
+    "bottle_id": 1037,
+    "message": "Bottle 1037: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:50",
+    "event": "PRODUCTION",
+    "bottle_id": 1039,
+    "message": "Bottle 1039 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:52",
+    "event": "INSPECTION",
+    "bottle_id": 1038,
+    "message": "Bottle 1038: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:52",
+    "event": "PRODUCTION",
+    "bottle_id": 1040,
+    "message": "Bottle 1040 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:54",
+    "event": "INSPECTION",
+    "bottle_id": 1039,
+    "message": "Bottle 1039: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 20:17:54",
+    "event": "PRODUCTION",
+    "bottle_id": 1041,
+    "message": "Bottle 1041 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:56",
+    "event": "INSPECTION",
+    "bottle_id": 1040,
+    "message": "Bottle 1040: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:17:56",
+    "event": "PRODUCTION",
+    "bottle_id": 1042,
+    "message": "Bottle 1042 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:57",
+    "event": "INSPECTION",
+    "bottle_id": 1041,
+    "message": "Bottle 1041: DEFECT - 97/100 pills (3 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:17:58",
+    "event": "PRODUCTION",
+    "bottle_id": 1043,
+    "message": "Bottle 1043 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:17:59",
+    "event": "INSPECTION",
+    "bottle_id": 1042,
+    "message": "Bottle 1042: OVERFILL - 103 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 20:17:59",
+    "event": "PRODUCTION",
+    "bottle_id": 1044,
+    "message": "Bottle 1044 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:01",
+    "event": "INSPECTION",
+    "bottle_id": 1043,
+    "message": "Bottle 1043: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:01",
+    "event": "PRODUCTION",
+    "bottle_id": 1045,
+    "message": "Bottle 1045 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:03",
+    "event": "INSPECTION",
+    "bottle_id": 1044,
+    "message": "Bottle 1044: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 20:18:03",
+    "event": "PRODUCTION",
+    "bottle_id": 1046,
+    "message": "Bottle 1046 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:05",
+    "event": "INSPECTION",
+    "bottle_id": 1045,
+    "message": "Bottle 1045: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:05",
+    "event": "PRODUCTION",
+    "bottle_id": 1047,
+    "message": "Bottle 1047 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:05",
+    "event": "RECOVERY",
+    "bottle_id": 1041,
+    "message": "Bottle 1041: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:06",
+    "event": "INSPECTION",
+    "bottle_id": 1046,
+    "message": "Bottle 1046: DEFECT - 97/100 pills (3 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:18:07",
+    "event": "PRODUCTION",
+    "bottle_id": 1048,
+    "message": "Bottle 1048 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:08",
+    "event": "INSPECTION",
+    "bottle_id": 1047,
+    "message": "Bottle 1047: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:09",
+    "event": "PRODUCTION",
+    "bottle_id": 1049,
+    "message": "Bottle 1049 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:10",
+    "event": "INSPECTION",
+    "bottle_id": 1048,
+    "message": "Bottle 1048: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:10",
+    "event": "PRODUCTION",
+    "bottle_id": 1050,
+    "message": "Bottle 1050 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:12",
+    "event": "INSPECTION",
+    "bottle_id": 1049,
+    "message": "Bottle 1049: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:12",
+    "event": "PRODUCTION",
+    "bottle_id": 1051,
+    "message": "Bottle 1051 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:14",
+    "event": "INSPECTION",
+    "bottle_id": 1050,
+    "message": "Bottle 1050: DEFECT - 97/100 pills (3 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:18:14",
+    "event": "PRODUCTION",
+    "bottle_id": 1052,
+    "message": "Bottle 1052 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:14",
+    "event": "RECOVERY",
+    "bottle_id": 1046,
+    "message": "Bottle 1046: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:17",
+    "event": "INSPECTION",
+    "bottle_id": 1051,
+    "message": "Bottle 1051: DEFECT - 97/100 pills (3 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:18:17",
+    "event": "PRODUCTION",
+    "bottle_id": 1053,
+    "message": "Bottle 1053 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:18",
+    "event": "INSPECTION",
+    "bottle_id": 1052,
+    "message": "Bottle 1052: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:19",
+    "event": "PRODUCTION",
+    "bottle_id": 1054,
+    "message": "Bottle 1054 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:20",
+    "event": "ALARM",
+    "bottle_id": 0,
+    "message": "ALARM: Filling machine malfunction detected!",
+    "decision": "CRITICAL"
+  },
+  {
+    "time": "2026-09-13 20:18:21",
+    "event": "PRODUCTION",
+    "bottle_id": 1055,
+    "message": "Bottle 1055 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:22",
+    "event": "PRODUCTION",
+    "bottle_id": 1056,
+    "message": "Bottle 1056 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:23",
+    "event": "RECOVERY",
+    "bottle_id": 1050,
+    "message": "Bottle 1050: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:23",
+    "event": "RECOVERY",
+    "bottle_id": 0,
+    "message": "Filling machine tested and recovered. Alarm GREEN.",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:23",
+    "event": "INSPECTION",
+    "bottle_id": 1053,
+    "message": "Bottle 1053: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:24",
+    "event": "INSPECTION",
+    "bottle_id": 1054,
+    "message": "Bottle 1054: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:24",
+    "event": "INSPECTION",
+    "bottle_id": 1055,
+    "message": "Bottle 1055: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:24",
+    "event": "PRODUCTION",
+    "bottle_id": 1057,
+    "message": "Bottle 1057 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:24",
+    "event": "RECOVERY",
+    "bottle_id": 1051,
+    "message": "Bottle 1051: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:25",
+    "event": "ALARM",
+    "bottle_id": 0,
+    "message": "ALARM: Filling machine malfunction detected!",
+    "decision": "CRITICAL"
+  },
+  {
+    "time": "2026-09-13 20:18:26",
+    "event": "PRODUCTION",
+    "bottle_id": 1058,
+    "message": "Bottle 1058 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:28",
+    "event": "PRODUCTION",
+    "bottle_id": 1059,
+    "message": "Bottle 1059 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:28",
+    "event": "RECOVERY",
+    "bottle_id": 0,
+    "message": "Filling machine tested and recovered. Alarm GREEN.",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:29",
+    "event": "INSPECTION",
+    "bottle_id": 1056,
+    "message": "Bottle 1056: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 20:18:29",
+    "event": "INSPECTION",
+    "bottle_id": 1057,
+    "message": "Bottle 1057: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:29",
+    "event": "INSPECTION",
+    "bottle_id": 1058,
+    "message": "Bottle 1058: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:30",
+    "event": "PRODUCTION",
+    "bottle_id": 1060,
+    "message": "Bottle 1060 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:31",
+    "event": "INSPECTION",
+    "bottle_id": 1059,
+    "message": "Bottle 1059: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:32",
+    "event": "PRODUCTION",
+    "bottle_id": 1061,
+    "message": "Bottle 1061 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:18:33",
+    "event": "INSPECTION",
+    "bottle_id": 1060,
+    "message": "Bottle 1060: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:18:33",
+    "event": "PRODUCTION",
+    "bottle_id": 1062,
+    "message": "Bottle 1062 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:28",
+    "event": "PRODUCTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:30",
+    "event": "PRODUCTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:32",
+    "event": "INSPECTION",
+    "bottle_id": 1001,
+    "message": "Bottle 1001: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:32",
+    "event": "PRODUCTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:33",
+    "event": "INSPECTION",
+    "bottle_id": 1002,
+    "message": "Bottle 1002: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:34",
+    "event": "PRODUCTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:35",
+    "event": "INSPECTION",
+    "bottle_id": 1003,
+    "message": "Bottle 1003: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:36",
+    "event": "PRODUCTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:37",
+    "event": "INSPECTION",
+    "bottle_id": 1004,
+    "message": "Bottle 1004: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:37",
+    "event": "PRODUCTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:39",
+    "event": "INSPECTION",
+    "bottle_id": 1005,
+    "message": "Bottle 1005: DEFECT - 97/100 pills (3 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:21:39",
+    "event": "PRODUCTION",
+    "bottle_id": 1007,
+    "message": "Bottle 1007 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:41",
+    "event": "INSPECTION",
+    "bottle_id": 1006,
+    "message": "Bottle 1006: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:41",
+    "event": "PRODUCTION",
+    "bottle_id": 1008,
+    "message": "Bottle 1008 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:42",
+    "event": "INSPECTION",
+    "bottle_id": 1007,
+    "message": "Bottle 1007: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:43",
+    "event": "PRODUCTION",
+    "bottle_id": 1009,
+    "message": "Bottle 1009 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:44",
+    "event": "INSPECTION",
+    "bottle_id": 1008,
+    "message": "Bottle 1008: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:45",
+    "event": "PRODUCTION",
+    "bottle_id": 1010,
+    "message": "Bottle 1010 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:46",
+    "event": "INSPECTION",
+    "bottle_id": 1009,
+    "message": "Bottle 1009: DEFECT - 99/100 pills (1 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:21:46",
+    "event": "PRODUCTION",
+    "bottle_id": 1011,
+    "message": "Bottle 1011 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:47",
+    "event": "RECOVERY",
+    "bottle_id": 1005,
+    "message": "Bottle 1005: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:48",
+    "event": "INSPECTION",
+    "bottle_id": 1010,
+    "message": "Bottle 1010: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:48",
+    "event": "PRODUCTION",
+    "bottle_id": 1012,
+    "message": "Bottle 1012 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:50",
+    "event": "INSPECTION",
+    "bottle_id": 1011,
+    "message": "Bottle 1011: OVERFILL - 105 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 20:21:50",
+    "event": "PRODUCTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:52",
+    "event": "INSPECTION",
+    "bottle_id": 1012,
+    "message": "Bottle 1012: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:52",
+    "event": "PRODUCTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:53",
+    "event": "INSPECTION",
+    "bottle_id": 1013,
+    "message": "Bottle 1013: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:54",
+    "event": "PRODUCTION",
+    "bottle_id": 1015,
+    "message": "Bottle 1015 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:54",
+    "event": "RECOVERY",
+    "bottle_id": 1009,
+    "message": "Bottle 1009: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:55",
+    "event": "INSPECTION",
+    "bottle_id": 1014,
+    "message": "Bottle 1014: DEFECT - 96/100 pills (4 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:21:56",
+    "event": "PRODUCTION",
+    "bottle_id": 1016,
+    "message": "Bottle 1016 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:57",
+    "event": "INSPECTION",
+    "bottle_id": 1015,
+    "message": "Bottle 1015: OVERFILL - 103 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 20:21:57",
+    "event": "PRODUCTION",
+    "bottle_id": 1017,
+    "message": "Bottle 1017 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:21:58",
+    "event": "RECOVERY",
+    "bottle_id": 1011,
+    "message": "Bottle 1011: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:59",
+    "event": "INSPECTION",
+    "bottle_id": 1016,
+    "message": "Bottle 1016: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:21:59",
+    "event": "PRODUCTION",
+    "bottle_id": 1018,
+    "message": "Bottle 1018 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:01",
+    "event": "INSPECTION",
+    "bottle_id": 1017,
+    "message": "Bottle 1017: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:01",
+    "event": "PRODUCTION",
+    "bottle_id": 1019,
+    "message": "Bottle 1019 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:02",
+    "event": "INSPECTION",
+    "bottle_id": 1018,
+    "message": "Bottle 1018: DEFECT - 96/100 pills (4 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:22:03",
+    "event": "PRODUCTION",
+    "bottle_id": 1020,
+    "message": "Bottle 1020 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:03",
+    "event": "RECOVERY",
+    "bottle_id": 1014,
+    "message": "Bottle 1014: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:04",
+    "event": "INSPECTION",
+    "bottle_id": 1019,
+    "message": "Bottle 1019: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:05",
+    "event": "PRODUCTION",
+    "bottle_id": 1021,
+    "message": "Bottle 1021 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:05",
+    "event": "RECOVERY",
+    "bottle_id": 1015,
+    "message": "Bottle 1015: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:06",
+    "event": "INSPECTION",
+    "bottle_id": 1020,
+    "message": "Bottle 1020: DEFECT - 99/100 pills (1 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:22:06",
+    "event": "PRODUCTION",
+    "bottle_id": 1022,
+    "message": "Bottle 1022 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:08",
+    "event": "INSPECTION",
+    "bottle_id": 1021,
+    "message": "Bottle 1021: OVERFILL - 102 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 20:22:08",
+    "event": "PRODUCTION",
+    "bottle_id": 1023,
+    "message": "Bottle 1023 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:10",
+    "event": "INSPECTION",
+    "bottle_id": 1022,
+    "message": "Bottle 1022: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:10",
+    "event": "PRODUCTION",
+    "bottle_id": 1024,
+    "message": "Bottle 1024 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:10",
+    "event": "RECOVERY",
+    "bottle_id": 1018,
+    "message": "Bottle 1018: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:12",
+    "event": "INSPECTION",
+    "bottle_id": 1023,
+    "message": "Bottle 1023: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:12",
+    "event": "PRODUCTION",
+    "bottle_id": 1025,
+    "message": "Bottle 1025 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:13",
+    "event": "INSPECTION",
+    "bottle_id": 1024,
+    "message": "Bottle 1024: OVERFILL - 102 pills",
+    "decision": "OVERFILL"
+  },
+  {
+    "time": "2026-09-13 20:22:14",
+    "event": "PRODUCTION",
+    "bottle_id": 1026,
+    "message": "Bottle 1026 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:14",
+    "event": "RECOVERY",
+    "bottle_id": 1020,
+    "message": "Bottle 1020: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:15",
+    "event": "INSPECTION",
+    "bottle_id": 1025,
+    "message": "Bottle 1025: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:16",
+    "event": "PRODUCTION",
+    "bottle_id": 1027,
+    "message": "Bottle 1027 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:16",
+    "event": "RECOVERY",
+    "bottle_id": 1021,
+    "message": "Bottle 1021: REWORK SUCCESS - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:17",
+    "event": "INSPECTION",
+    "bottle_id": 1026,
+    "message": "Bottle 1026: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:17",
+    "event": "PRODUCTION",
+    "bottle_id": 1028,
+    "message": "Bottle 1028 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:19",
+    "event": "INSPECTION",
+    "bottle_id": 1027,
+    "message": "Bottle 1027: WRONG LABEL detected",
+    "decision": "WRONG LABEL"
+  },
+  {
+    "time": "2026-09-13 20:22:19",
+    "event": "PRODUCTION",
+    "bottle_id": 1029,
+    "message": "Bottle 1029 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:21",
+    "event": "INSPECTION",
+    "bottle_id": 1028,
+    "message": "Bottle 1028: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:21",
+    "event": "PRODUCTION",
+    "bottle_id": 1030,
+    "message": "Bottle 1030 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:22",
+    "event": "RECOVERY",
+    "bottle_id": 1024,
+    "message": "Bottle 1024: LABEL FIXED - PASS",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:22",
+    "event": "INSPECTION",
+    "bottle_id": 1029,
+    "message": "Bottle 1029: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:23",
+    "event": "PRODUCTION",
+    "bottle_id": 1031,
+    "message": "Bottle 1031 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:24",
+    "event": "INSPECTION",
+    "bottle_id": 1030,
+    "message": "Bottle 1030: DEFECT - 97/100 pills (3 missing)",
+    "decision": "DEFECT"
+  },
+  {
+    "time": "2026-09-13 20:22:25",
+    "event": "PRODUCTION",
+    "bottle_id": 1032,
+    "message": "Bottle 1032 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:26",
+    "event": "INSPECTION",
+    "bottle_id": 1031,
+    "message": "Bottle 1031: PASS - 100 pills + correct label",
+    "decision": "PASS"
+  },
+  {
+    "time": "2026-09-13 20:22:26",
+    "event": "PRODUCTION",
+    "bottle_id": 1033,
+    "message": "Bottle 1033 entered production.",
+    "decision": "START"
+  },
+  {
+    "time": "2026-09-13 20:22:27",
+    "event": "RECOVERY",
+    "bottle_id": 1027,
+    "message": "Bottle 1027: LABEL FIXED - PASS",
+    "decision": "PASS"
+  }
+]
