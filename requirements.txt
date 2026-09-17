@@ -1,4 +1,5 @@
 streamlit
+pygame
 pandas
 plotly
-pip install pygame
+
